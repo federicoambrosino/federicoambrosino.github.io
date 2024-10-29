@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://inspirehep.net/authors/1899607?ui-citation-summary=true&ui-exclude-self-citations=true
 
   - title: "Talks"
     url: /talks/    
