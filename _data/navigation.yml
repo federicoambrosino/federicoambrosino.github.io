@@ -8,7 +8,7 @@ main:
 
 main:
   - title: "Publications"
-    url: https://inspirehep.net/authors/1899607?ui-citation-summary=true&ui-exclude-self-citations=true
+    url: /https://inspirehep.net/authors/1899607?ui-citation-summary=true&ui-exclude-self-citations=true
 
   - title: "Talks"
     url: /talks/    
