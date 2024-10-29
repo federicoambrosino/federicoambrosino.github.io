@@ -28,8 +28,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Miscellaneous"
-    url: /portfolio/
+ # - title: "Miscellaneous"
+  #  url: /portfolio/
     
 
     
