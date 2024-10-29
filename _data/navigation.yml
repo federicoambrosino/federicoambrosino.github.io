@@ -6,32 +6,24 @@
 
 main:
 
-  #- title: "Projects"
-   # url: /projects/
-
+main:
   - title: "Publications"
     url: /publications/
- 
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
   - title: "CV"
     url: /cv/
-
-   - title: "Talks"
-    url: /talks/   
-
-   # - title: "Where "
-   #  url: /talks/   
-
-
-  # - title: "Teaching"
-  #   url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
- # - title: "Miscellaneous"
-  #  url: /portfolio/
-    
-
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Guide"
+    url: /markdown/
