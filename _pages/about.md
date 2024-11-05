@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am in italain Theoretical Physicist. I am currently pursuing my PhD in Mathematical Physics at DESY and University of Hamburg. 
+I am in italian Theoretical Physicist. I am currently pursuing my PhD in Mathematical Physics at DESY and University of Hamburg. 
 
 
 A data-driven personal website
